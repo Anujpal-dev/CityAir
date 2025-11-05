@@ -1,16 +1,30 @@
-# React + Vite
+# 🌤️ CityAir — Weather Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Live Demo:** 👉 [View CityAir](https://anujpal-dev.github.io/CityAir/)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 About the Project
 
-## React Compiler
+**CityAir** is a modern weather application built using **React** and **Vite**, integrated with a **Weather API** to provide real-time weather updates for any city around the world.  
+The app is designed with a clean, minimal UI and delivers accurate temperature, humidity, and condition data in seconds.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🌍 Search weather by **city name**  
+- 🌡️ Display **temperature, humidity, and weather condition**  
+- 🕒 **Real-time** data fetching from a weather API  
+- ⚡ Built with **Vite** for fast development and optimized builds  
+- 📱 Responsive design for **mobile and desktop**  
+- 🧭 Simple and **minimal UI** design  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React + Vite  
+- **Styling:** CSS  
+- **API:** OpenWeatherMap (or your API of choice)  
+- **Deployment:** GitHub Pages  
